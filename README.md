@@ -20,4 +20,4 @@
       
 # Aufgabenbeschreibung (Datensatz analysieren)
 
-In diesem Notebook soll ein Datensatz über [Brustkrebs](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_breast_cancer.html) analysiert werden. Es soll ein **SVM**-Klassifikator trainiert werden, der gutartige von bösartigen Tumoren möglichst zuverlässig unterscheiden kann. Wir importieren hierfür die notwendigen Bibliotheken und importieren die Daten von `sklearn`:
+In diesem Notebook soll ein Datensatz über [Brustkrebs](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_breast_cancer.html) analysiert werden. Es soll ein **SVM**-Klassifikator trainiert werden, der gutartige von bösartigen Tumoren möglichst zuverlässig unterscheiden kann. Wir importieren hierfür die notwendigen Bibliotheken und importieren die Daten von `sklearn`.
